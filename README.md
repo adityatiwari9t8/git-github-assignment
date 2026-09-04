@@ -4,7 +4,7 @@
 **URN:** 2581117  
 **Section:** 3E  
 **Semester:** 3  
-**Faculty Mentor:** Dr. Vaishali Maheshwari  
+**Faculty Mentor:** Dr. Abhishek  
 
 ## Assigned Problems
 1. Compare File Changes
