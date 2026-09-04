@@ -1,1 +1,2 @@
 Line 1: Introduction to Git
+Line 2: Git tracks changes line by line
